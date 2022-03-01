@@ -1,10 +1,40 @@
- - 👋 Hi, I’m @satyag404
+
+## - 👋 Hi, I’m Satyam Kumar
  - 👀 I’m interested in Web developer 
- - 🌱 I’m currently learning ReactJS
 
-[![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyag404)](https://github.com/satyag404/github-readme-stats)
+ - 🧠 I’m currently learning ReactJS
 
-<!---
-satyag404/satyag404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - 👩‍💻 I'm currently working on...
+
+ - 👯‍♀️ I'm looking to collaborate on...
+
+ - 🤔 I'm looking for help with...
+
+ - 💬 Ask me about...
+
+ - 📫 How to reach me...
+
+ - 😄 Pronouns...
+
+ - ⚡️ Fun fact...
+
+[![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyag404&theme=radical)](https://github.com/satyag404/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyag404&layout=compact&theme=radical)](https://github.com/satyag404/github-readme-stats)
+
+
+
+
+## 🛠 Skills & Experience 
+*  🧑‍💻 React
+*  🧑‍💻 React-Native
+*  🧑‍💻 HTML, CSS & JS
+*  🙋‍♂️ Python
+*  🧑‍💻 Mysql
+*  ❤️ AWS
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-g-4b8293212/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SatyaG53746875)
+
