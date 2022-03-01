@@ -1,8 +1,8 @@
-## - 👋 Hi, I’m @satyag404
-## - 👀 I’m interested in Web developer 
-## - 🌱 I’m currently learning ReactJS
-## - 🐉 I am having a solid hand in the technologies like HTML, CSS, Bootstrap, TailwindCSS, Reactjs on the Front end,  in the backend I prefer nodejs and python.
+ - 👋 Hi, I’m @satyag404
+ - 👀 I’m interested in Web developer 
+ - 🌱 I’m currently learning ReactJS
 
+[![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyag404)](https://github.com/satyag404/github-readme-stats)
 
 <!---
 satyag404/satyag404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
