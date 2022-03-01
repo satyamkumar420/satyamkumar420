@@ -28,8 +28,12 @@
 *  🧑‍💻 React-Native
 *  🧑‍💻 HTML, CSS & JS
 *  🙋‍♂️ Python
+*  💘 Bootstrap
+*  💖 TailwindCSS
 *  🧑‍💻 Mysql
+*  💖 MongoDB
 *  ❤️ AWS
+
 
 
 ## 🔗 Links
