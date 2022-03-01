@@ -1,6 +1,7 @@
 ## - 👋 Hi, I’m @satyag404
 ## - 👀 I’m interested in Web developer 
 ## - 🌱 I’m currently learning ReactJS
+## - 🐉 I am having a solid hand in the technologies like HTML, CSS, Bootstrap, TailwindCSS, Reactjs on the Front end,  in the backend I prefer nodejs and python.
 
 
 <!---
