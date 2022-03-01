@@ -1,10 +1,11 @@
 
-## - 👋 Hi, I’m Satyam Kumar
+## 👋 Hi, I’m Satyam Kumar
+
  - 👀 I’m interested in Web developer 
 
- - 🧠 I’m currently learning ReactJS
+ - 🧠 I’m currently learning ReactJS.
 
- - 👩‍💻 I'm currently working on...
+ - 👩‍💻 I'm currently working on React.
 
  - 👯‍♀️ I'm looking to collaborate on...
 
@@ -13,8 +14,6 @@
  - 💬 Ask me about...
 
  - 📫 How to reach me...
-
- - 😄 Pronouns...
 
  - ⚡️ Fun fact...
 
