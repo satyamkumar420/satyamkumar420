@@ -17,8 +17,8 @@
 
  - ⚡️ Fun fact...
 
-[![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar2460&theme=radical)](https://github.com/satyamkumar2460/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar2460&layout=compact&theme=radical)](https://github.com/satyamkumar420/github-readme-stats)
+[![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar420&theme=radical)](https://github.com/satyamkumar420/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar420&layout=compact&theme=radical)](https://github.com/satyamkumar420/github-readme-stats)
 
 
 
