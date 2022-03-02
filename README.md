@@ -17,8 +17,8 @@
 
  - ⚡️ Fun fact...
 
-[![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyag404&theme=radical)](https://github.com/satyag404/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyag404&layout=compact&theme=radical)](https://github.com/satyag404/github-readme-stats)
+[![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar2460&theme=radical)](https://github.com/satyamkumar2460/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar2460&layout=compact&theme=radical)](https://github.com/satyamkumar420/github-readme-stats)
 
 
 
@@ -37,7 +37,7 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satyag404.github.io/Portfolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satyamkumar420.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-g-4b8293212/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SatyaG53746875)
 
