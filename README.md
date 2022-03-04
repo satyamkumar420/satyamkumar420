@@ -8,9 +8,9 @@
 
  - 👯‍♀️ I'm looking to collaborate on...
 
-[![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar420&theme=radical)
+![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar420&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar420&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar420&layout=compact&theme=radical)
 
 
 
