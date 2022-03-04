@@ -6,17 +6,7 @@
 
  - 🧠 I’m currently learning ReactJS.
 
- - 👩‍💻 I'm currently working on React.
-
  - 👯‍♀️ I'm looking to collaborate on...
-
- - 🤔 I'm looking for help with...
-
- - 💬 Ask me about...
-
- - 📫 How to reach me...
-
- - ⚡️ Fun fact...
 
 [![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar420&theme=radical)
 
