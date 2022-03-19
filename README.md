@@ -16,13 +16,12 @@
 
 
 ## 🛠 Skills & Experience 
-*  🧑‍💻 React
-*  🧑‍💻 React-Native
-*  🧑‍💻 HTML, CSS & JS
+*  🧑 React & React-Native
+*  🧑 HTML, CSS & JS
 *  🙋‍♂️ Python
 *  💘 Bootstrap
 *  💖 TailwindCSS
-*  🧑‍💻 Mysql
+*  🧑 Mysql
 *  💖 MongoDB
 *  ❤️ AWS
 
