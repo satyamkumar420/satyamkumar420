@@ -6,7 +6,7 @@
 
  - 🧠 I’m currently learning ReactJS and React Native.
 
- - 👯‍♀️ I'm looking to collaborate on Full Stack Development
+ - 👯‍♀️ I'm looking to collaborate on Web Development
 
 ![Satya GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar420&theme=radical)
 
@@ -15,19 +15,32 @@
 
 
 
-## 🛠 Skills & Experience 
-*  🧑 React & React-Native
-*  🧑 HTML, CSS & JS
-*  🙋‍♂️ Python
-*  💘 Bootstrap
-*  💖 TailwindCSS
-*  🧑 Mysql
-*  💖 MongoDB
-*  ❤️ AWS
+## I am proficient in.
+*   HTML
+*   CSS
+*   JavaScript
+*   Bootstrap
+*   Tailwindcss
+*   Python
+*   Git Version Control
+
+## Packages / libraries such as:
+*   ReactJS
+*   Bootstrap
+*   Tailwindcss
+*   Django
+
+## Database:
+*   Mysql
+*   MongoDB
+
+## Continuous deployment on
+*   AWS
+*   Heroku
 
 
 
-## 🔗 Links
+## 🔗 Get in Touch
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satyamkumar420.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-g-4b8293212/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SatyaG53746875)
