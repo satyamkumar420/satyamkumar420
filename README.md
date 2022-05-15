@@ -4,7 +4,7 @@
 
  - 👀 I’m interested in Web development
 
- - 🧠 I’m currently learning ReactJS and React Native.
+ - 🧠 I’m currently learning Algorithms.
 
  - 👯‍♀️ I'm looking to collaborate on Web Development
 
@@ -22,13 +22,13 @@
 *   Bootstrap
 *   Tailwindcss
 *   Python
+*   NodeJS
 *   Git Version Control
 
 ## Packages / libraries such as:
-*   ReactJS
-*   Bootstrap
-*   Tailwindcss
+*   ReactJS 
 *   Django
+*   
 
 ## Database:
 *   Mysql
