@@ -28,7 +28,7 @@
 ## Packages / libraries such as:
 *   ReactJS 
 *   Django
-*   
+*   Express
 
 ## Database:
 *   Mysql
