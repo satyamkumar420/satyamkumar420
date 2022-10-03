@@ -1,10 +1,11 @@
 
 <p align="center">
-  <img height="auto" width="200" src="https://user-images.githubusercontent.com/98641231/184407888-f50e9556-19c6-4419-960b-c95a720eef2c.png" >
+  <img  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" >
   
 <h3 align="center"> 🙋‍♂️ Hi, I’m ❤️Satyam Kumar❤️ </h3>
   
 </p>
+
 
 
 
@@ -18,6 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar420&layout=compact&theme=radical)
 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical" alt="satyamkumar420" /></p>
 
 
 
