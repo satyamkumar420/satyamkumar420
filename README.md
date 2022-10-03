@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" >
+  <img  width="900" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" >
   
 <h3 align="center"> 🙋‍♂️ Hi, I’m ❤️Satyam Kumar❤️ </h3>
   
