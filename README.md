@@ -19,7 +19,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar420&layout=compact&theme=radical)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical" alt="satyamkumar420" /></p>
+<p align="start">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical" alt="satyamkumar420" />
+</p>
 
 
 
