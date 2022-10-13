@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumar420&label=Profile%20views&color=1180ff&style=flat" alt="satyamkumar420" /> </p>
+<p align="left"> <a href="https://github.com/satyamkumar420"> <img src="https://komarev.com/ghpvc/?username=satyamkumar420&label=Profile%20views&color=1180ff&style=flat" alt="satyamkumar420" /></a> </p>
 
 <p align="left"> <a href="https://github.com/satyamkumar420"><img src="https://github-profile-trophy.vercel.app/?username=satyamkumar420&theme=radical" alt="satyamkumar420" /></a> </p>
 
