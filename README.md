@@ -53,7 +53,7 @@
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/satyamkumar420)
 
 <p align="left"> <a href="https://github.com/satyamkumar420"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumar420&show_icons=true&locale=en&layout=compact&theme=radical" alt="satyamkumar420" /></a></p>
-<p align="left">&nbsp; <a href="https://github.com/satyamkumar420"><img  src="https://github-readme-stats.vercel.app/api?username=satyamkumar420&show_icons=true&locale=en&theme=radical" alt="satyamkumar420" /></a></p>
+<p align="left"><a href="https://github.com/satyamkumar420"><img  src="https://github-readme-stats.vercel.app/api?username=satyamkumar420&show_icons=true&locale=en&theme=radical" alt="satyamkumar420" /></a></p>
 <p align="left"> <a href="https://github.com/satyamkumar420"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical" alt="satyamkumar420" />
 </a>
 </p>
