@@ -52,11 +52,11 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumar420&show_icons=true&locale=en&layout=compact&theme=radical" alt="satyamkumar420" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumar420&show_icons=true&locale=en&layout=compact&theme=radical" alt="satyamkumar420" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumar420&show_icons=true&locale=en&theme=radical" alt="satyamkumar420" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=satyamkumar420&show_icons=true&locale=en&theme=radical" alt="satyamkumar420" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical" alt="satyamkumar420" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical" alt="satyamkumar420" /></p>
 
 
 
