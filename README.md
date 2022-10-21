@@ -18,8 +18,9 @@
 
 ## 🔗 Get in Touch
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satyamkumar420.github.io/Portfolio/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Satyamk404)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Satyamk404)
 [![LinkedIn](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-3b71aa205/)
+[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/satyadeveloper)
 
 ## Languages and Tools:
 [![HTML5](https://img.shields.io/badge/html5-%23E0234E.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/satyamkumar420)
@@ -57,7 +58,6 @@
 <p align="left"> <a href="https://github.com/satyamkumar420"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical" alt="satyamkumar420" />
 </a>
 </p>
-
 
 
 
