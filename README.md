@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **satyamkumar2460@gmail.com**
 
-- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/drive/folders/17RDxxS8p3FDRvDIQc8lEPg4_O1c0TDPk)
+- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/143czLPSmn8vfZ7G1OebcE3rIKE8hN8gw/view?usp=share_link)
 
 ## 🔗 Get in Touch
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satyamkumar420.github.io/Portfolio/)
