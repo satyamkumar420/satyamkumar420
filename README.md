@@ -1,5 +1,6 @@
   
-<h1 align="center">Hi 👋, I'm Satyam</h1>
+<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+<img src="https://info.varonis.com/hubfs/Imported_Blog_Media/varonis-pentesting-hero@2x-1-1-1.png">
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/satyamkumar420"> <img src="https://komarev.com/ghpvc/?username=satyamkumar420&label=Profile%20views&color=1180ff&style=flat" alt="satyamkumar420" /></a> </p>
@@ -44,7 +45,6 @@
 &nbsp;[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://github.com/satyamkumar420)
 &nbsp;[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://github.com/satyamkumar420)
-&nbsp;[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/satyamkumar420)
 &nbsp;[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/satyamkumar420)
