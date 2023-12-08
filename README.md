@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **satyamkumar2460@gmail.com**
 
-- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1fLaJo3E0NUlWNZDj9gRBWLTyVXmGZVfF/view?usp=sharing)
+- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1elTQyO1Bz8LrPmC1VkVLABZqesYNOMnP/view?usp=sharing)
 
 ## 🔗 Get in Touch
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satyam404.vercel.app)
