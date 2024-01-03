@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamkumar404/)
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/satyadeveloper)
 
-## Tech Stack:
+## 🏆 Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-%23E0234E.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/satyamkumar420)
@@ -53,9 +53,14 @@
 &nbsp;[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/satyamkumar420)
 
-[![satyamkumar420's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar420&show_icons=true&theme=radical)](https://github.com/satyamkumar420)
+## ⭐ Github Stats
+![satyamkumar420's Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar420&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar420&layout=pie&theme=radical)](https://github.com/satyamkumar420)
+![satyamkumar420's Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical&hide_border=true)
+
+![satyamkumar420's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar420&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+
   
 
 
