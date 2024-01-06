@@ -7,22 +7,34 @@
 
 <p align="left"> <a href="https://github.com/satyamkumar420"><img src="https://github-profile-trophy.vercel.app/?username=satyamkumar420&theme=radical" alt="satyamkumar420" /></a> </p>
 
- - 👀 I’m interested in **Full Stack development**
+## About Me 🚀
+- 👨‍💻 Enthusiastic Full Stack Developer
+- 🌐 Crafting seamless, user-centric digital experiences
+- 🚀 Passionate about turning creative ideas into high-performance web applications
+- 🎯 Specialized in both frontend and backend technologies
+- 💻 Proficient in HTML, CSS, JavaScript, Node.js, Express, and more
+- 🌟 Dedicated to delivering robust and innovative projects
+- 📚 Commitment to continuous learning in the dynamic tech landscape
+- 🤝 Excited about collaborating with like-minded individuals and organizations
 
-- 🌱 I’m currently learning **ReactJS**
+<!-- Featured Projects -->
+## 🚀 Featured Projects
 
-- 💬 Ask me about **ReactJS & Python,**
+- 🛠️ [**DevToo1s**](https://www.devtoo1s.dev) - Online Free DevTools offers a wide range of tools including CSS tools, URL encoder, emoji picker, and many others.
+- 🎥 [**Youtube Clone**](https://github.com/satyamkumar420/YouTube2.0) - We recreated the video-sharing platform with a focus on a user-friendly interface and smooth playback.
+- ☀️ [**Weather App**](https://github.com/satyamkumar420/React-Weather-App) - Developed a dynamic weather application providing real-time weather updates and forecasts for users
+- 📝 [**TodoList**](https://github.com/satyamkumar420/TodoList) - Created an intuitive and efficient TodoList application to help users organize tasks and boost productivity.
+- 📥 [**Social Media Content Download**](https://github.com/satyamkumar420/Social_Media_Content_Dwonload) - Download Instagram profile pictures, photos, and videos, YouTube videos with titles and thumbnail URLs, and Pinterest images and videos seamlessly with this versatile script.
 
-- 📫 How to reach me **satyamkumar2460@gmail.com**
 
-- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1SB8t2Len-cZDtxSiYEaaMwl_0cylmeuh/view?usp=sharing)
+<!-- Let's Connect -->
+## 🌐 Let's Connect
+- 💼 [**Portfolio**](https://satyam404.vercel.app)
+- 📝 [**Resume**](https://drive.google.com/file/d/1SB8t2Len-cZDtxSiYEaaMwl_0cylmeuh/view?usp=sharing)
+- 📧 [**Email**](mailto:satyamkumar2460@gmail.com)
+- 🤝 [**LinkedIn**](https://www.linkedin.com/in/satyamkumar404)  
 
-## 🔗 Get in Touch
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satyam404.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamkumar404/)
-[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/satyadeveloper)
-
-## 🏆 Tech Stack:
+## 🛠️ Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-%23E0234E.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/satyamkumar420)
@@ -50,7 +62,7 @@
 &nbsp;[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/satyamkumar420)
 
-## ⭐ Github Stats
+## 📈 GitHub Stats
 ![satyamkumar420's Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar420&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ![satyamkumar420's Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar420&theme=radical&hide_border=true)
@@ -58,9 +70,10 @@
 ![satyamkumar420's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar420&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
-  
-
-
+<!-- Footer -->
+<p align="center">
+  👨‍💻 Thanks for visiting! Let's connect and collaborate 🌟.
+</p>
 
 
               
