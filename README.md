@@ -17,6 +17,9 @@
 - 📚 Commitment to continuous learning in the dynamic tech landscape
 - 🤝 Excited about collaborating with like-minded individuals and organizations
 
+## Education 📚
+- Bachelor of Science in Computer Science, R.G.P.V University Bhopal (2020 - 2024)
+
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
@@ -33,6 +36,8 @@
 - 📝 [**Resume**](https://drive.google.com/file/d/1SB8t2Len-cZDtxSiYEaaMwl_0cylmeuh/view?usp=sharing)
 - 📧 [**Email**](mailto:satyamkumar2460@gmail.com)
 - 🤝 [**LinkedIn**](https://www.linkedin.com/in/satyamkumar404)  
+
+Let's code and create amazing things together! 🚀
 
 ## 🛠️ Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-%23E0234E.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/satyamkumar420)
