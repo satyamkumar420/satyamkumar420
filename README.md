@@ -24,6 +24,7 @@
 ## 🚀 Featured Projects
 
 - 🛠️ [**DevToo1s**](https://www.devtoo1s.dev) - Online Free DevTools offers a wide range of tools including CSS tools, URL encoder, emoji picker, and many others.
+- 🏠 [**Airbnb-Clone**](https://airbnb-clone-2024.vercel.app/) - This project replicates some of the core features of the Airbnb platform, providing users with a seamless booking experience.
 - 🎥 [**Youtube Clone**](https://github.com/satyamkumar420/YouTube2.0) - We recreated the video-sharing platform with a focus on a user-friendly interface and smooth playback.
 - ☀️ [**Weather App**](https://github.com/satyamkumar420/React-Weather-App) - Developed a dynamic weather application providing real-time weather updates and forecasts for users
 - 📝 [**TodoList**](https://github.com/satyamkumar420/TodoList) - Created an intuitive and efficient TodoList application to help users organize tasks and boost productivity.
@@ -33,7 +34,7 @@
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
 - 💼 [**Portfolio**](https://satyam404.vercel.app)
-- 📝 [**Resume**](https://drive.google.com/file/d/1SB8t2Len-cZDtxSiYEaaMwl_0cylmeuh/view?usp=sharing)
+- 📝 [**Resume**](https://drive.google.com/file/d/1ofc3M-hccZ7LXVJ7BDlx4F7GnZ-e4Cj0/view?usp=sharing)
 - 📧 [**Email**](mailto:satyamkumar2460@gmail.com)
 - 🤝 [**LinkedIn**](https://www.linkedin.com/in/satyamkumar404)  
 
