@@ -1,6 +1,7 @@
   
 <h1 align="center">Hi 👋, I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="satyam-kumar-3b71aa205" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/satyam-kumar-3b71aa205?trk=profile-badge">Satyam Kumar</a></div></h1>
-<img src="https://info.varonis.com/hubfs/Imported_Blog_Media/varonis-pentesting-hero@2x-1-1-1.png">
+<img src="https://res.cloudinary.com/duwri8eua/image/upload/v1709031054/assets/qfat2feai20hrkscz2bh.gif">
+
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/satyamkumar420"> <img src="https://komarev.com/ghpvc/?username=satyamkumar420&label=Profile%20views&color=1180ff&style=flat" alt="satyamkumar420" /></a> </p>
