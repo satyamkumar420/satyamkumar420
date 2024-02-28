@@ -25,12 +25,10 @@
 ## 🚀 Featured Projects
 
 - 🛠️ [**DevToo1s**](https://www.devtoo1s.dev) - Online Free DevTools offers a wide range of tools including CSS tools, URL encoder, emoji picker, and many others.
-- 🚀 [**ImageIQ**](https://imageiq.vercel.app/) - ImageIQ is an AI-powered project that brings cutting-edge image processing capabilities to your fingertips. Whether you need to restore, generate, or manipulate images, ImageIQ has got you covered.
 - 🏠 [**Airbnb-Clone**](https://book-rooms.vercel.app/) - This project replicates some of the core features of the Airbnb platform, providing users with a seamless booking experience.
 - 🎥 [**Youtube Clone**](https://github.com/satyamkumar420/YouTube2.0) - We recreated the video-sharing platform with a focus on a user-friendly interface and smooth playback.
 - ☀️ [**Weather App**](https://github.com/satyamkumar420/React-Weather-App) - Developed a dynamic weather application providing real-time weather updates and forecasts for users
 - 📝 [**TodoList**](https://github.com/satyamkumar420/TodoList) - Created an intuitive and efficient TodoList application to help users organize tasks and boost productivity.
-- 📥 [**Social Media Content Download**](https://github.com/satyamkumar420/Social_Media_Content_Dwonload) - Download Instagram profile pictures, photos, and videos, YouTube videos with titles and thumbnail URLs, and Pinterest images and videos seamlessly with this versatile script.
 
 
 <!-- Let's Connect -->
