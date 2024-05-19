@@ -34,7 +34,7 @@
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
 - 💼 [**Portfolio**](https://satyam404.vercel.app)
-- 📝 [**Resume**](https://drive.google.com/file/d/1i4UkttsoBvwdyVRwuq7cqfsjT-vca0bT/view?usp=sharing)
+- 📝 [**Resume**](https://drive.google.com/file/d/1xf12GfaJ7Fy2BkDui1jLAWtPTkxVzL_w/view?usp=sharing)
 - 📧 [**Email**](mailto:satyamkumar2460@gmail.com)
 - 🤝 [**LinkedIn**](https://www.linkedin.com/in/satyamkumar404)  
 
