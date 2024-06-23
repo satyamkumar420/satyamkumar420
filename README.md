@@ -34,13 +34,13 @@
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
 - 💼 [**Portfolio**](https://satyam404.vercel.app)
-- 📝 [**Resume**](https://drive.google.com/file/d/1i-t1bSIhydME-WPIF2BISSaah58CSSdX/view?usp=sharing)
+- 📝 [**Resume**](https://drive.google.com/file/d/10PVHmD2tRaQtIk7rYNEurDlIRC5LtB6m/view?usp=sharing)
 - 📧 [**Email**](mailto:satyamkumar2460@gmail.com)
-- 🤝 [**LinkedIn**](https://www.linkedin.com/in/satyamkumar404)  
+- 🤝 [**LinkedIn**](https://www.linkedin.com/in/satyam404)  
 
 Let's code and create amazing things together! 🚀
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack & Tools ⚙:
 [![HTML5](https://img.shields.io/badge/html5-%23E0234E.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/satyamkumar420)
 &nbsp;[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/satyamkumar420)
