@@ -36,7 +36,7 @@
 - 💼 [**Portfolio**](https://satyam404.vercel.app)
 - 📝 [**Resume**](https://drive.google.com/file/d/10PVHmD2tRaQtIk7rYNEurDlIRC5LtB6m/view?usp=sharing)
 - 📧 [**Email**](mailto:satyamkumar2460@gmail.com)
-- 🤝 [**LinkedIn**](https://www.linkedin.com/in/satyam404)  
+- 🤝 [**LinkedIn**](https://www.linkedin.com/in/satyamkumar404)  
 
 Let's code and create amazing things together! 🚀
 
