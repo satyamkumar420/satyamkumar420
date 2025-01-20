@@ -24,7 +24,7 @@
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-- 🛠️ [**DevToo1s**](https://www.devtoo1s.dev) - Online Free DevTools offers a wide range of tools including CSS tools, URL encoder, emoji picker, and many others.
+- 🛠️ [**DevToo1s**](https://freedevtools.vercel.app/) - Online Free DevTools offers a wide range of tools including CSS tools, URL encoder, emoji picker, and many others.
 - 🏠 [**Airbnb-Clone**](https://book-rooms.vercel.app/) - This project replicates some of the core features of the Airbnb platform, providing users with a seamless booking experience.
 - 🎥 [**Youtube Clone**](https://github.com/satyamkumar420/YouTube2.0) - We recreated the video-sharing platform with a focus on a user-friendly interface and smooth playback.
 - ☀️ [**Weather App**](https://github.com/satyamkumar420/React-Weather-App) - Developed a dynamic weather application providing real-time weather updates and forecasts for users
